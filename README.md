@@ -1,2 +1,2 @@
 # covid-19-tracker
-Covid-19 Track Challenge
+Covid-19 Tracker Challenge
