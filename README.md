@@ -17,6 +17,6 @@ Email: KevRooz@Outlook.com
 Version notes//
 
 Version 1.00
-Graph tooltips / popovers added with Popper.js
-Map OpenStreetMap API added with Leaflet.js
-Dates updated with Moment.js
+Graph tooltips / popovers added with Popper.js.
+Map OpenStreetMap API added with Leaflet.js.
+Dates updated with Moment.js.
